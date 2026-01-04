@@ -52,25 +52,32 @@ I’m passionate about **cybersecurity, software development, and red teaming**,
 
 ---
 
-## 🌱 I’m Currently Learning
+## 🌱 Currently Exploring & Building Expertise
 
-- **Red Teaming & Ethical Hacking**
-  - Offensive security tools and frameworks
-  - Attack lifecycle techniques (reconnaissance, exploitation, privilege escalation, post‑exploitation)
-  - Web application security and vulnerability assessment
+- **Red Teaming & Ethical Hacking**  
+  Offensive security tools and frameworks, attack lifecycle techniques (recon, exploitation, privilege escalation, post‑exploitation), web application security, and vulnerability assessment.
 
-- **Command Line & System Internals**
-  - Linux command line
-  - Windows command line & PowerShell
-  - Networking fundamentals and system enumeration
+- **Command Line & System Internals**  
+  Linux CLI, Windows CLI & PowerShell, networking fundamentals, and system enumeration.
 
-- **Application Development**
-  - Modern web development (frontend & backend)
-  - Building and deploying full‑stack applications
-  - Mobile app development basics
+- **Application Development**  
+  Modern full-stack web development (frontend & backend) and mobile app development basics.
 
-- **Cloud & Deployment**
-  - Cloud platforms and hosting fundamentals
-  - CI/CD basics and deployment automation
+- **Cloud & Deployment**  
+  Cloud platforms, hosting fundamentals, CI/CD pipelines, and deployment automation.
+
+---
+
+## 🔨 Currently Working On
+
+- [**Cybersecurity Knowledge Base**](https://github.com/Nmarino8/cybersecurity-knowledge-base) – A comprehensive, structured library covering cybersecurity attacks, protocols, cryptography, tools, defenses, labs, and resources for learning and practice.  
+
+  This is an **open collaborative project**, aiming to become the largest freely available cybersecurity knowledge repository. Contributors are welcome to help by:  
+  - Adding new attacks, protocols, or lab exercises  
+  - Improving existing documentation and guides  
+  - Submitting practical examples, diagrams, or code snippets  
+  - Sharing recommended resources, tools, and references  
+
+Whether you’re a beginner or experienced professional, your contributions can help others learn and grow in cybersecurity. **Check the Discussions and Issues in the repository to get started, or submit a pull request directly!**
 
 ---
