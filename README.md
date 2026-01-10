@@ -78,6 +78,21 @@ I’m passionate about **cybersecurity, software development, and red teaming**,
   - Submitting practical examples, diagrams, or code snippets  
   - Sharing recommended resources, tools, and references  
 
-Whether you’re a beginner or experienced professional, your contributions can help others learn and grow in cybersecurity. **Check the Discussions and Issues in the repository to get started, or submit a pull request directly!**
+- [**StudyFlow**](https://github.com/Nmarino8/StudyFlow) – A privacy-first weekly study planner for students.
+
+  StudyFlow is currently **under active development**. The project focuses on helping students organize exams, projects, and study schedules using a weekly calendar interface.  
+  At the moment, the project mainly includes UI and structure, with full functionality planned for future versions.
+
+  Planned work includes:
+  - Implementing full calendar functionality with local data storage
+  - Adding exams and project reminders
+  - Study plan generation and study tracking
+  - Improving UI/UX and mobile responsiveness
 
 ---
+
+## 🚀 Contributions Welcome!
+
+**Whether you’re a beginner or an experienced contributor, your input can help improve the project and support others in learning and building.**
+
+👉 **Check the Discussions and Issues to get started, or submit a pull request directly!**
