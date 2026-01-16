@@ -1,98 +1,155 @@
-# Hi, I'm Niko 👋
+<h1 align="left">Hi, I'm Niko 👋</h1>
 
-I’m an 18-year-old aspiring **Software Developer & Cybersecurity Enthusiast** from Zagreb, Croatia.  
-Currently finishing high school at **Tehnička škola Ruđera Boškovića**, specializing as a **Computer Technician – Programming**, and preparing to start university.  
+###
 
-I’m passionate about **cybersecurity, software development, and red teaming**, and I love building projects that combine creativity and technical skills. I enjoy exploring new technologies, solving challenging problems, and continuously learning in the ever-evolving tech world.  
+<h2 align="left">About me</h2>
 
----
+###
 
-## 💻 Tech & Tools
+<br clear="both">
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+<p align="left">I’m an 18-year-old aspiring Software Developer & Cybersecurity Enthusiast from Zagreb, Croatia.  <br>Currently finishing high school at Tehnička škola Ruđera Boškovića, specializing as a Computer Technician – Programming, and preparing to start university.  <br><br>I’m passionate about cybersecurity, software development, and red teaming, and I love building projects that combine creativity and technical skills. I enjoy exploring new technologies, solving challenging problems, and continuously learning in the ever-evolving tech world.</p>
 
-### Development & Command Line
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-2F2F2F?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-001F54?style=for-the-badge&logo=powershell&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![Visual Studio 2022](https://img.shields.io/badge/VS%202022-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux Command Line](https://img.shields.io/badge/Linux%20CLI-262626?style=for-the-badge&logo=gnu-bash&logoColor=white)
+###
 
-### Frameworks & Libraries
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+<h2 align="left">💻 Tech & Tools</h2>
 
-### Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+###
 
-### Platforms & Cloud
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+<h3 align="left">Programming Languages</h3>
 
-### Networking & Other Tools
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-%23333333.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-%232F2F2F.svg?style=for-the-badge&logo=apple&logoColor=white)
+###
 
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+</div>
 
-## 🌱 Currently Exploring & Building Expertise
+###
 
-- **Red Teaming & Ethical Hacking**  
-  Offensive security tools and frameworks, attack lifecycle techniques (recon, exploitation, privilege escalation, post‑exploitation), web application security, and vulnerability assessment.
+<h3 align="left">Development & Command Line</h3>
 
-- **Command Line & System Internals**  
-  Linux CLI, Windows CLI & PowerShell, networking fundamentals, and system enumeration.
+###
 
-- **Application Development**  
-  Modern full-stack web development (frontend & backend) and mobile app development basics.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
 
-- **Cloud & Deployment**  
-  Cloud platforms, hosting fundamentals, CI/CD pipelines, and deployment automation.
+###
 
----
+<h3 align="left">Frameworks & Libraries</h3>
 
-## 🔨 Currently Working On
+###
 
-- [**Cybersecurity Knowledge Base**](https://github.com/Nmarino8/cybersecurity-knowledge-base) – A comprehensive, structured library covering cybersecurity attacks, protocols, cryptography, tools, defenses, labs, and resources for learning and practice.  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
+</div>
 
-  This is an **open collaborative project**, aiming to become the largest freely available cybersecurity knowledge repository. Contributors are welcome to help by:  
-  - Adding new attacks, protocols, or lab exercises  
-  - Improving existing documentation and guides  
-  - Submitting practical examples, diagrams, or code snippets  
-  - Sharing recommended resources, tools, and references  
+###
 
-- [**StudyFlow**](https://github.com/Nmarino8/StudyFlow) – A privacy-first weekly study planner for students.
+<h3 align="left">Databases</h3>
 
-  StudyFlow is currently **under active development**. The project focuses on helping students organize exams, projects, and study schedules using a weekly calendar interface.  
-  At the moment, the project mainly includes UI and structure, with full functionality planned for future versions.
+###
 
-  Planned work includes:
-  - Implementing full calendar functionality with local data storage
-  - Adding exams and project reminders
-  - Study plan generation and study tracking
-  - Improving UI/UX and mobile responsiveness
+<br clear="both">
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
 
-## 🚀 Contributions Welcome!
+###
 
-**Whether you’re a beginner or an experienced contributor, your input can help improve the project and support others in learning and building.**
+<h3 align="left">Platforms & Cloud</h3>
 
-👉 **Check the Discussions and Issues to get started, or submit a pull request directly!**
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+</div>
+
+###
+
+<h3 align="left">Operating Systems & Shells</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h2 align="left">🔨 Currently Working On</h2>
+
+###
+
+<p align="left">Cybersecurity Knowledge Base – A comprehensive, structured library covering cybersecurity attacks, protocols, cryptography, tools, defenses, labs, and resources for learning and practice.<br><br>This is an open collaborative project, aiming to become the largest freely available cybersecurity knowledge repository. Contributors are welcome to help by:<br><br>Adding new attacks, protocols, or lab exercises<br>Improving existing documentation and guides<br>Submitting practical examples, diagrams, or code snippets<br>Sharing recommended resources, tools, and references<br>StudyFlow – A privacy-first weekly study planner for students.<br><br>StudyFlow is currently under active development. The project focuses on helping students organize exams, projects, and study schedules using a weekly calendar interface.<br>At the moment, the project mainly includes UI and structure, with full functionality planned for future versions.<br><br>Planned work includes:<br><br>Implementing full calendar functionality with local data storage<br>Adding exams and project reminders<br>Study plan generation and study tracking<br>Improving UI/UX and mobile responsiveness</p>
+
+###
+
+<h2 align="left">🚀 Contributions Welcome!</h2>
+
+###
+
+<p align="left">Whether you’re a beginner or an experienced contributor, your input can help improve the project and support others in learning and building.<br><br>👉 Check the Discussions and Issues to get started, or submit a pull request directly!</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
