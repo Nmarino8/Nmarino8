@@ -1,98 +1,80 @@
-# Hi, I'm Niko 👋
+# Hi, I'm Niko <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
 I’m an 18-year-old aspiring **Software Developer & Cybersecurity Enthusiast** from Zagreb, Croatia.  
-Currently finishing high school at **Tehnička škola Ruđera Boškovića**, specializing as a **Computer Technician – Programming**, and preparing to start university.  
+Currently, I’m finishing high school at **Tehnička škola Ruđera Boškovića**, specializing as a **Computer Technician – Programming**, and preparing to start university.  
 
-I’m passionate about **cybersecurity, software development, and red teaming**, and I love building projects that combine creativity and technical skills. I enjoy exploring new technologies, solving challenging problems, and continuously learning in the ever-evolving tech world.  
+I’m passionate about **cybersecurity, software development, and red teaming**, and I enjoy creating projects that blend creativity with technical skills. I love exploring new technologies, tackling challenging problems, and continuously learning in the ever-evolving world of tech.
 
 ---
 
 ## 💻 Tech & Tools
 
 ### Programming Languages
-![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
+<img src="https://skillicons.dev/icons?i=c,cs,js,html,css,php,swift" />
 
 ### Development & Command Line
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-2F2F2F?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-001F54?style=for-the-badge&logo=powershell&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![Visual Studio 2022](https://img.shields.io/badge/VS%202022-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux Command Line](https://img.shields.io/badge/Linux%20CLI-262626?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,npm" />
+
+### Version Control
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 ### Frameworks & Libraries
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nextjs,vite" />
 
 ### Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,firebase" />
 
 ### Platforms & Cloud
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+<img src="https://skillicons.dev/icons?i=netlify,gcp" />
 
-### Networking & Other Tools
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-%23333333.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-%232F2F2F.svg?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
-## 🌱 Currently Exploring & Building Expertise
-
-- **Red Teaming & Ethical Hacking**  
-  Offensive security tools and frameworks, attack lifecycle techniques (recon, exploitation, privilege escalation, post‑exploitation), web application security, and vulnerability assessment.
-
-- **Command Line & System Internals**  
-  Linux CLI, Windows CLI & PowerShell, networking fundamentals, and system enumeration.
-
-- **Application Development**  
-  Modern full-stack web development (frontend & backend) and mobile app development basics.
-
-- **Cloud & Deployment**  
-  Cloud platforms, hosting fundamentals, CI/CD pipelines, and deployment automation.
+### Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,kali,mint,ubuntu,windows,apple" />
 
 ---
 
 ## 🔨 Currently Working On
 
-- [**Cybersecurity Knowledge Base**](https://github.com/Nmarino8/cybersecurity-knowledge-base) – A comprehensive, structured library covering cybersecurity attacks, protocols, cryptography, tools, defenses, labs, and resources for learning and practice.  
+### [Cybersecurity Knowledge Base](https://github.com/Nmarino8/cybersecurity-knowledge-base)  
+A comprehensive, collaborative library covering cybersecurity attacks, protocols, cryptography, tools, defenses, labs, and learning resources.  
 
-  This is an **open collaborative project**, aiming to become the largest freely available cybersecurity knowledge repository. Contributors are welcome to help by:  
-  - Adding new attacks, protocols, or lab exercises  
-  - Improving existing documentation and guides  
-  - Submitting practical examples, diagrams, or code snippets  
-  - Sharing recommended resources, tools, and references  
-
-- [**StudyFlow**](https://github.com/Nmarino8/StudyFlow) – A privacy-first weekly study planner for students.
-
-  StudyFlow is currently **under active development**. The project focuses on helping students organize exams, projects, and study schedules using a weekly calendar interface.  
-  At the moment, the project mainly includes UI and structure, with full functionality planned for future versions.
-
-  Planned work includes:
-  - Implementing full calendar functionality with local data storage
-  - Adding exams and project reminders
-  - Study plan generation and study tracking
-  - Improving UI/UX and mobile responsiveness
+This is an **open collaborative project**, aiming to become the largest freely available cybersecurity knowledge repository. Contributors can help by:  
+- Adding new attacks, protocols, or lab exercises  
+- Improving existing documentation and guides  
+- Submitting practical examples, diagrams, or code snippets  
+- Sharing recommended resources, tools, and references  
 
 ---
 
-## 🚀 Contributions Welcome!
+### [StudyFlow](https://github.com/Nmarino8/StudyFlow)  
+A privacy-first weekly study planner for students, helping organize exams, projects, and study schedules using a weekly calendar interface.  
 
-**Whether you’re a beginner or an experienced contributor, your input can help improve the project and support others in learning and building.**
+Currently under **active development**, with planned work including:  
+- Full calendar functionality with local data storage  
+- Adding exams and project reminders  
+- Study plan generation and progress tracking  
+- Improving UI/UX and mobile responsiveness  
 
-👉 **Check the Discussions and Issues to get started, or submit a pull request directly!**
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Contributions Welcome
+
+> [!IMPORTANT]
+> Contributions are welcome across **all repositories**!
+
+You can help by:
+- Improving projects
+- Enhancing documentation
+- Adding examples
+- Refining tools and resources
+
+**Everyone is encouraged to contribute**, whether you're a beginner or an experienced developer. Your input helps keep these projects useful and up to date.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="22" height="22" /> **Get involved:** [Explore repositories](https://github.com/your-username?tab=repositories), 
+[join discussions](https://github.com/your-username?tab=discussions), 
+or [submit a pull request](https://github.com/your-username/your-repo/pulls).
+
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt" 
+  style="width: 100%;" 
+/>
